@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.0a9316ea.js",
-    "static/js/387.0b8bfb37.chunk.js": "/react-homework-template/static/js/387.0b8bfb37.chunk.js",
-    "static/js/186.99d4a17f.chunk.js": "/react-homework-template/static/js/186.99d4a17f.chunk.js",
-    "static/js/765.03d4c218.chunk.js": "/react-homework-template/static/js/765.03d4c218.chunk.js",
-    "static/js/168.34093fd2.chunk.js": "/react-homework-template/static/js/168.34093fd2.chunk.js",
-    "static/js/210.a1d8715c.chunk.js": "/react-homework-template/static/js/210.a1d8715c.chunk.js",
-    "static/js/468.d0a49e33.chunk.js": "/react-homework-template/static/js/468.d0a49e33.chunk.js",
-    "static/js/243.98edff0a.chunk.js": "/react-homework-template/static/js/243.98edff0a.chunk.js",
-    "static/js/126.e68faca9.chunk.js": "/react-homework-template/static/js/126.e68faca9.chunk.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.0a9316ea.js.map": "/react-homework-template/static/js/main.0a9316ea.js.map",
-    "387.0b8bfb37.chunk.js.map": "/react-homework-template/static/js/387.0b8bfb37.chunk.js.map",
-    "186.99d4a17f.chunk.js.map": "/react-homework-template/static/js/186.99d4a17f.chunk.js.map",
-    "765.03d4c218.chunk.js.map": "/react-homework-template/static/js/765.03d4c218.chunk.js.map",
-    "168.34093fd2.chunk.js.map": "/react-homework-template/static/js/168.34093fd2.chunk.js.map",
-    "210.a1d8715c.chunk.js.map": "/react-homework-template/static/js/210.a1d8715c.chunk.js.map",
-    "468.d0a49e33.chunk.js.map": "/react-homework-template/static/js/468.d0a49e33.chunk.js.map",
-    "243.98edff0a.chunk.js.map": "/react-homework-template/static/js/243.98edff0a.chunk.js.map",
-    "126.e68faca9.chunk.js.map": "/react-homework-template/static/js/126.e68faca9.chunk.js.map"
+    "main.css": "/goit-react-hw-05-movies./static/css/main.7acaea2f.css",
+    "main.js": "/goit-react-hw-05-movies./static/js/main.b7531269.js",
+    "static/js/387.0531d1e4.chunk.js": "/goit-react-hw-05-movies./static/js/387.0531d1e4.chunk.js",
+    "static/js/186.a4cf3d00.chunk.js": "/goit-react-hw-05-movies./static/js/186.a4cf3d00.chunk.js",
+    "static/js/765.09451a78.chunk.js": "/goit-react-hw-05-movies./static/js/765.09451a78.chunk.js",
+    "static/js/168.0153790b.chunk.js": "/goit-react-hw-05-movies./static/js/168.0153790b.chunk.js",
+    "static/js/210.e67b5d99.chunk.js": "/goit-react-hw-05-movies./static/js/210.e67b5d99.chunk.js",
+    "static/js/468.2756b0d3.chunk.js": "/goit-react-hw-05-movies./static/js/468.2756b0d3.chunk.js",
+    "static/js/243.35cea00a.chunk.js": "/goit-react-hw-05-movies./static/js/243.35cea00a.chunk.js",
+    "static/js/126.ce1b1173.chunk.js": "/goit-react-hw-05-movies./static/js/126.ce1b1173.chunk.js",
+    "index.html": "/goit-react-hw-05-movies./index.html",
+    "main.7acaea2f.css.map": "/goit-react-hw-05-movies./static/css/main.7acaea2f.css.map",
+    "main.b7531269.js.map": "/goit-react-hw-05-movies./static/js/main.b7531269.js.map",
+    "387.0531d1e4.chunk.js.map": "/goit-react-hw-05-movies./static/js/387.0531d1e4.chunk.js.map",
+    "186.a4cf3d00.chunk.js.map": "/goit-react-hw-05-movies./static/js/186.a4cf3d00.chunk.js.map",
+    "765.09451a78.chunk.js.map": "/goit-react-hw-05-movies./static/js/765.09451a78.chunk.js.map",
+    "168.0153790b.chunk.js.map": "/goit-react-hw-05-movies./static/js/168.0153790b.chunk.js.map",
+    "210.e67b5d99.chunk.js.map": "/goit-react-hw-05-movies./static/js/210.e67b5d99.chunk.js.map",
+    "468.2756b0d3.chunk.js.map": "/goit-react-hw-05-movies./static/js/468.2756b0d3.chunk.js.map",
+    "243.35cea00a.chunk.js.map": "/goit-react-hw-05-movies./static/js/243.35cea00a.chunk.js.map",
+    "126.ce1b1173.chunk.js.map": "/goit-react-hw-05-movies./static/js/126.ce1b1173.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.0a9316ea.js"
+    "static/js/main.b7531269.js"
   ]
 }
